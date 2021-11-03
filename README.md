@@ -16,7 +16,6 @@
 * makefile 编译脚本
 * store 数据落盘的文件存放在这个文件夹 
 * stress_test_start.sh 压力测试脚本
-* LICENSE 使用协议
 
 # 提供接口
 
